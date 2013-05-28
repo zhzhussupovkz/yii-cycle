@@ -1,0 +1,11 @@
+#slideshow {
+	height: 400px;
+	width: 600px;
+	margin: auto;
+}
+
+#slideshow img {
+	padding: 5px;
+	border: 1px solid #ccc;
+	background-color: #eee;
+}
